@@ -48,4 +48,4 @@ function Searchbar({ routeType }: Props) {
     );
 }
 
-export default Searchbar;
+export default Searchbar; 
